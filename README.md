@@ -1,4 +1,4 @@
 # EDA_HappinessIndex2021
 A short Exploratory Data Analysis(EDA) on the Happiness Index 2021 taken from https://worldhappiness.report/. Using Pandas and Matplotlib, this report explores the dataset using various EDA methods and at the end, managed to create a tool for determining the happiness index given the logged GDP per capita.
 
-## Report available here: https://github.com/karel-joshua/EDA_HappinessIndex2021/blob/main/milestone2_EDA_pdf.pdf
+### Report available [here](milestone2_EDA_pdf.pdf)
